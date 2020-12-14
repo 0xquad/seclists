@@ -1,0 +1,13 @@
+action
+do
+htm
+html
+jad
+jar
+java
+jhtml
+jnlp
+jsf
+jsp
+jspa
+jspf
