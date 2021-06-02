@@ -1,0 +1,5 @@
+.cshtml
+.html
+.cs
+.html.cs
+.cshtml.cs

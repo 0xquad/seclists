@@ -1,0 +1,9 @@
+Program.cs
+<PROJECTNAME>.csproj
+Startup.cs
+appsettings.Development.json
+appsettings.json
+appsettings_SQLite.Development.json
+appsettings_SQLite.json
+bower.json
+bundleconfig.json

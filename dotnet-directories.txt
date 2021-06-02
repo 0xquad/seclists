@@ -1,0 +1,9 @@
+Pages
+Shared
+wwwroot
+Themes
+Themes/MyProject
+Themes/<PROJECTNAME>
+Views
+Pages/Shared
+Views/Shared
