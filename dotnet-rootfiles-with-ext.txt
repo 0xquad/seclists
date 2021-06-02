@@ -7,3 +7,6 @@ appsettings_SQLite.Development.json
 appsettings_SQLite.json
 bower.json
 bundleconfig.json
+App.razor
+_Imports.razor
+<PROJECTNAME>.Client.csproj

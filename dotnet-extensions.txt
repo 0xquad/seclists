@@ -3,3 +3,4 @@
 .cs
 .html.cs
 .cshtml.cs
+.razor
