@@ -1,0 +1,8 @@
+uat
+qa
+dev
+acc
+lab
+preprod
+pp
+test
