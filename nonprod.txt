@@ -4,5 +4,16 @@ dev
 acc
 lab
 preprod
+preprd
+pprd
+pprod
 pp
 test
+preview
+prev
+stag
+staging
+stg
+test
+testing
+tst
