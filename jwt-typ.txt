@@ -4,6 +4,8 @@
 "NONE"
 "None"
 "none"
+"NULL"
+"null"
 "JWT"
 "AT+JWT"
 "JOSE"
@@ -22,3 +24,5 @@
 {}
 null
 "jwt","typ":""
+"jwt\u0000"
+"\u006A\u0077\u0074"
