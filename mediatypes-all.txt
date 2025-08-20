@@ -1625,6 +1625,7 @@ text/fwdred
 text/grammar-ref-list
 text/html
 text/javascript
+text/json
 text/jcr-cnd
 text/markdown
 text/mizar
